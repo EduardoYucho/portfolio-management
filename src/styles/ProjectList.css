@@ -1,0 +1,21 @@
+.project-list-container {
+    background-color: #333;
+    min-height: 100vh;
+}
+
+.project-list-container {
+    background-color: #333;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.table {
+    width: 80%;
+}
+
+.navbar {
+    background-color: #708090;
+}
